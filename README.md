@@ -1,2 +1,0 @@
-# sguppy
-Begin app
